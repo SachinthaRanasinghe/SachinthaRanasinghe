@@ -135,29 +135,21 @@ I build with **React**, **Flutter**, **Node.js**, **Django**, **PostgreSQL**, **
 
 <br/>
 
-## Engineering Activity
+## 📊 Engineering Activity
 
 <sub>Metrics that reflect sustained, production-oriented development</sub>
 
-<br/><br/>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SachinthaRanasinghe&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=e2e8f0&border_radius=12&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.demolab.com/?user=SachinthaRanasinghe&theme=react&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1&sideLabels=e2e8f0&dates=e2e8f0&border_radius=12" height="180" alt="GitHub Streak"/>
+## 📊 GitHub Analytics
 
-<br/><br/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SachinthaRanasinghe&show_icons=true&theme=react&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinthaRanasinghe&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0&border_radius=12&langs_count=10" height="180" alt="Top Languages"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=SachinthaRanasinghe&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" height="180" alt="GitHub Trophies"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SachinthaRanasinghe&layout=compact&theme=react&hide_border=true"/>
 
-<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinthaRanasinghe&theme=react&hide_border=true&bg_color=0d1117&color=6366f1&line=8b5cf6&point=e2e8f0&area=true&radius=8" width="95%" alt="Contribution Graph"/>
 
 </div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
