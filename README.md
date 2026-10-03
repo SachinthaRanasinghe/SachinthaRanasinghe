@@ -6,7 +6,7 @@ Dubai, UAE
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/SachinthaRanasinghe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-24292F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachintha-ranasinghe-620b572b4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=googlechrome&logoColor=white)](https://SachinthaRanasinghe.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=googlechrome&logoColor=white)](https://sachinthadev.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-24292F?style=flat-square&logo=maildotru&logoColor=white)](mailto:sachintha.ranasinghe.int@gmail.com)
 
 <br>
